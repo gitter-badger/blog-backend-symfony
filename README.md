@@ -1,4 +1,6 @@
 # blog-backend-symfony
+
+[![Join the chat at https://gitter.im/intrepion/blog-backend-symfony](https://badges.gitter.im/intrepion/blog-backend-symfony.svg)](https://gitter.im/intrepion/blog-backend-symfony?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A blog backend written in Symfony
 
 ## Install in Development
